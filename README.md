@@ -7,7 +7,7 @@
     <img src="./logo-with-text.png" alt="Logo" style="height: 80px; ">
   </a>
 
-  <h1 align="center">Open Data Product Log</h1>
+  <h1 align="center">Open Data Product Dev Log</h1>
 
   <p align="center">
     Dev log for Open Data Product
@@ -17,6 +17,7 @@
 ## About The Project
 
 The aim of this app is to document the development of Open Data Product.
+The dev log is available at [open-data-product.github.io](https://open-data-product.github.io).
 
 ### Built With
 
@@ -33,8 +34,9 @@ tbd
 
 ## Roadmap
 
-See the [open issues](https://github.com/open-data-product/open-data-product.github.io/issues) for a list of proposed features (and
- known issues).
+See the [open issues](https://github.com/open-data-product/open-data-product.github.io/issues) for a list of proposed
+features (and
+known issues).
 
 ## Contact
 
